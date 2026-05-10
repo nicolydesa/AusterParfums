@@ -1,0 +1,739 @@
+﻿{
+  "totalPerfumesDetected": 163,
+  "fimgsImagesDetected": 32,
+  "duplicateFimgsImageIds": 7,
+  "duplicates": [
+    {
+      "id": "31861",
+      "count": 39,
+      "items": [
+        {
+          "id": "11",
+          "name": "Sauvage",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "31",
+          "name": "Invictus",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "36",
+          "name": "D&G The One",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "40",
+          "name": "Nuit d'Issey",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "43",
+          "name": "Pure XS",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "47",
+          "name": "Ultra Male",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "50",
+          "name": "Prada L'Homme",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "54",
+          "name": "Spicebomb",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "58",
+          "name": "Explorer",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "59",
+          "name": "Silver Mountain Water",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "62",
+          "name": "Gentleman",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "64",
+          "name": "Dylan Blue",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "65",
+          "name": "Eros Flame",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "69",
+          "name": "Only The Brave",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "70",
+          "name": "La Nuit de L'Homme",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "72",
+          "name": "Born in Roma",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "84",
+          "name": "The Most Wanted",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "89",
+          "name": "The One Mysterious Night",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "93",
+          "name": "Royal Oud",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "105",
+          "name": "Moustache",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "106",
+          "name": "Dior Homme Intense",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "109",
+          "name": "Fahrenheit",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "110",
+          "name": "Gucci Pour Homme II",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "115",
+          "name": "Original Santal",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "116",
+          "name": "Viking",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "117",
+          "name": "Millesime Imperial",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "118",
+          "name": "Green Irish Tweed",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "122",
+          "name": "F Black",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "125",
+          "name": "Luna Rossa Carbon",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "144",
+          "name": "L'Eau d'Issey Pour Homme",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "145",
+          "name": "Polo Blue",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "146",
+          "name": "Neroli Sauvage",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "147",
+          "name": "Royal Mayfair",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "152",
+          "name": "Voyage d'Hermes",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "156",
+          "name": "Bvlgari Man in Black",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "157",
+          "name": "Bvlgari Pour Homme",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "159",
+          "name": "Aqva Pour Homme",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "161",
+          "name": "Le Male",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        },
+        {
+          "id": "163",
+          "name": "Fleur du Male",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
+        }
+      ]
+    },
+    {
+      "id": "15036",
+      "count": 33,
+      "items": [
+        {
+          "id": "7",
+          "name": "La Vie Est Belle",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "30",
+          "name": "Angel",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "34",
+          "name": "Flowerbomb",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "44",
+          "name": "Alien",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "46",
+          "name": "Scandal",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "48",
+          "name": "Burberry Her",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "53",
+          "name": "Si",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "55",
+          "name": "Olympea",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "57",
+          "name": "Gucci Bloom",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "61",
+          "name": "Cloud",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "67",
+          "name": "S├¼ Passione",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "68",
+          "name": "Eros Pour Femme",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "73",
+          "name": "Voce Viva",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "83",
+          "name": "Aventus for Her",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "102",
+          "name": "Shalimar",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "103",
+          "name": "Mitsouko",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "119",
+          "name": "Not a Perfume",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "120",
+          "name": "Romantina",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "123",
+          "name": "Valentina",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "124",
+          "name": "Fan di Fendi",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "141",
+          "name": "Acqua di Gioia",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "142",
+          "name": "My Way",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "143",
+          "name": "Emporio Armani In Love With You",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "148",
+          "name": "Jardin Sur Le Nil",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "149",
+          "name": "Twilly d'Hermes",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "150",
+          "name": "Un Jardin En Mediterranee",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "151",
+          "name": "24 Faubourg",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "153",
+          "name": "Eau des Merveilles",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "154",
+          "name": "Un Jardin Apres La Mousson",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "155",
+          "name": "Kelly Caleche",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "158",
+          "name": "Omnia Crystalline",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "160",
+          "name": "Goldea",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        },
+        {
+          "id": "162",
+          "name": "Classique",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.15036.jpg"
+        }
+      ]
+    },
+    {
+      "id": "14843",
+      "count": 31,
+      "items": [
+        {
+          "id": "23",
+          "name": "Interlude Man",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "27",
+          "name": "Amber Oud",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "37",
+          "name": "Intense Cafe",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "51",
+          "name": "Reflection Man",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "56",
+          "name": "Moon Carnival",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "60",
+          "name": "Musc Ravageur",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "77",
+          "name": "Ombre Nomade",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "78",
+          "name": "Roses Musk",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "79",
+          "name": "Black Afgano",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "80",
+          "name": "Roses Vanille",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "81",
+          "name": "Naxos",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "82",
+          "name": "Initio Side Effect",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "86",
+          "name": "Honey Aoud",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "88",
+          "name": "Hacivat",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "91",
+          "name": "Halfeti",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "94",
+          "name": "Oud for Greatness",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "96",
+          "name": "Rehab",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "99",
+          "name": "Ani",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "108",
+          "name": "Aoud Lemon Mint",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "111",
+          "name": "Kilian Love Don't Be Shy",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "112",
+          "name": "Angels' Share",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "113",
+          "name": "Straight to Heaven",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "114",
+          "name": "Good Girl Gone Bad",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "126",
+          "name": "Memoir Man",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "127",
+          "name": "Journey Man",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "128",
+          "name": "Beach Hut Man",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "129",
+          "name": "Honour Man",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "130",
+          "name": "Mefisto",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "131",
+          "name": "Erba Pura",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "132",
+          "name": "Alexandria II",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        },
+        {
+          "id": "133",
+          "name": "Accento Overdose",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.14843.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1826",
+      "count": 12,
+      "items": [
+        {
+          "id": "6",
+          "name": "Oud Wood",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        },
+        {
+          "id": "35",
+          "name": "Tuscan Leather",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        },
+        {
+          "id": "42",
+          "name": "Ombre Leather",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        },
+        {
+          "id": "85",
+          "name": "Neroli Portofino",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        },
+        {
+          "id": "92",
+          "name": "Cafe Rose",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        },
+        {
+          "id": "134",
+          "name": "Noir Extreme",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        },
+        {
+          "id": "135",
+          "name": "Black Orchid",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        },
+        {
+          "id": "136",
+          "name": "Bitter Peach",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        },
+        {
+          "id": "137",
+          "name": "Rose Prick",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        },
+        {
+          "id": "138",
+          "name": "Soleil Blanc",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        },
+        {
+          "id": "139",
+          "name": "Mandarino di Amalfi",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        },
+        {
+          "id": "140",
+          "name": "Costa Azzurra",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.1826.jpg"
+        }
+      ]
+    },
+    {
+      "id": "39669",
+      "count": 9,
+      "items": [
+        {
+          "id": "32",
+          "name": "Delina",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.39669.jpg"
+        },
+        {
+          "id": "39",
+          "name": "Pegasus",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.39669.jpg"
+        },
+        {
+          "id": "45",
+          "name": "Layton",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.39669.jpg"
+        },
+        {
+          "id": "49",
+          "name": "Grand Soir",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.39669.jpg"
+        },
+        {
+          "id": "63",
+          "name": "Very Good Girl",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.39669.jpg"
+        },
+        {
+          "id": "66",
+          "name": "BR540 Extrait",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.39669.jpg"
+        },
+        {
+          "id": "87",
+          "name": "Herod",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.39669.jpg"
+        },
+        {
+          "id": "100",
+          "name": "BR540 Satin Mood",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.39669.jpg"
+        },
+        {
+          "id": "101",
+          "name": "Godolphin",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.39669.jpg"
+        }
+      ]
+    },
+    {
+      "id": "52671",
+      "count": 7,
+      "items": [
+        {
+          "id": "17",
+          "name": "Miss Dior",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.52671.jpg"
+        },
+        {
+          "id": "28",
+          "name": "Libre",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.52671.jpg"
+        },
+        {
+          "id": "38",
+          "name": "J'adore",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.52671.jpg"
+        },
+        {
+          "id": "71",
+          "name": "Hypnotic Poison",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.52671.jpg"
+        },
+        {
+          "id": "95",
+          "name": "Bois d'Argent",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.52671.jpg"
+        },
+        {
+          "id": "97",
+          "name": "Tuxedo",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.52671.jpg"
+        },
+        {
+          "id": "121",
+          "name": "Mon Paris",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.52671.jpg"
+        }
+      ]
+    },
+    {
+      "id": "19754",
+      "count": 7,
+      "items": [
+        {
+          "id": "22",
+          "name": "Jazz Club",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.19754.jpg"
+        },
+        {
+          "id": "29",
+          "name": "By the Fireplace",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.19754.jpg"
+        },
+        {
+          "id": "41",
+          "name": "Replica Beach Walk",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.19754.jpg"
+        },
+        {
+          "id": "74",
+          "name": "Bal d'Afrique",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.19754.jpg"
+        },
+        {
+          "id": "75",
+          "name": "Gypsy Water",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.19754.jpg"
+        },
+        {
+          "id": "76",
+          "name": "Mojave Ghost",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.19754.jpg"
+        },
+        {
+          "id": "98",
+          "name": "Replica Bubble Bath",
+          "image": "https://fimgs.net/mdimg/perfume/375x500.19754.jpg"
+        }
+      ]
+    }
+  ]
+}
