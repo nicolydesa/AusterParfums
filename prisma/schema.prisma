@@ -1,0 +1,88 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client"
+  output   = "../lib/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  name         String
+  passwordHash String
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  perfumeReviews PerfumeReview[]
+  helpfulVotes   ReviewHelpfulVote[]
+  forumThreads   ForumThread[]
+  forumReplies   ForumReply[]
+}
+
+model ForumThread {
+  id         String   @id @default(cuid())
+  title      String
+  body       String
+  category   String
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  replyCount Int      @default(0)
+  viewCount  Int      @default(0)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+  replies    ForumReply[]
+
+  @@index([category])
+  @@index([updatedAt(sort: Desc)])
+}
+
+model ForumReply {
+  id        String      @id @default(cuid())
+  threadId  String
+  thread    ForumThread @relation(fields: [threadId], references: [id], onDelete: Cascade)
+  userId    String
+  user      User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  content   String
+  createdAt DateTime    @default(now())
+
+  @@index([threadId])
+}
+
+/// Avaliação de um perfume do catálogo (perfumeId = id em lib/data).
+model PerfumeReview {
+  id        String   @id @default(cuid())
+  perfumeId String
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  rating    Int
+  content   String
+  longevity Int
+  sillage   Int
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  helpfulVotes ReviewHelpfulVote[]
+
+  @@unique([userId, perfumeId])
+  @@index([perfumeId])
+  @@index([createdAt(sort: Desc)])
+}
+
+model ReviewHelpfulVote {
+  id        String        @id @default(cuid())
+  reviewId  String
+  review    PerfumeReview @relation(fields: [reviewId], references: [id], onDelete: Cascade)
+  userId    String
+  user      User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt DateTime      @default(now())
+
+  @@unique([reviewId, userId])
+  @@index([reviewId])
+}
